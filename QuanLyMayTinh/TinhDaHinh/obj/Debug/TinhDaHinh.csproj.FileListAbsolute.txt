@@ -1,0 +1,8 @@
+D:\Data\homework\Nguyên lí lập trình hướng đối tượng\TinhDaHinh\bin\Debug\TinhDaHinh.exe.config
+D:\Data\homework\Nguyên lí lập trình hướng đối tượng\TinhDaHinh\bin\Debug\TinhDaHinh.exe
+D:\Data\homework\Nguyên lí lập trình hướng đối tượng\TinhDaHinh\bin\Debug\TinhDaHinh.pdb
+D:\Data\homework\Nguyên lí lập trình hướng đối tượng\TinhDaHinh\obj\Debug\TinhDaHinh.csproj.AssemblyReference.cache
+D:\Data\homework\Nguyên lí lập trình hướng đối tượng\TinhDaHinh\obj\Debug\TinhDaHinh.csproj.SuggestedBindingRedirects.cache
+D:\Data\homework\Nguyên lí lập trình hướng đối tượng\TinhDaHinh\obj\Debug\TinhDaHinh.csproj.CoreCompileInputs.cache
+D:\Data\homework\Nguyên lí lập trình hướng đối tượng\TinhDaHinh\obj\Debug\TinhDaHinh.exe
+D:\Data\homework\Nguyên lí lập trình hướng đối tượng\TinhDaHinh\obj\Debug\TinhDaHinh.pdb

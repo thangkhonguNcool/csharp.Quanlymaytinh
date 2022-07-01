@@ -1,0 +1,8 @@
+CPU:Intel;500;4,CPU:Intel;6000;4,RAM:Toshiba;1000;8,Main Board:SamSung;400;Vietnam,
+CPU:Intel;6000;4,RAM:SamSung;1000;8,Main Board:Intel;500;USA,,
+CPU:Intel;6000;4,RAM:SamSung;1000;8,CPU:Intel;6000;4,RAM:SamSung;1000;8,Main Board:SamSung;400;China
+CPU:Intel;500;4,CPU:Intel;6000;9,RAM:SamSung;1000;8,Main Board:HP;400;UK,
+CPU:Intel;6000;4,RAM:SamSung;1000;8,Main Board:Toshiba;500;Japan,,
+CPU:Intel;6000;4,RAM:SamSung;1000;8,CPU:Intel;6000;4,RAM:SamSung;1000;8,Main Board:HP;400;China
+CPU:Intel;6000;4,RAM:HP;1000;8,Main Board:Intel;500;Japan,,
+CPU:Intel;6000;4,RAM:SamSung;1000;8,CPU:Intel;6000;4,RAM:SamSung;1000;8,Main Board:Toshiba;500;Japan
